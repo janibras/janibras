@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @janibras
+- 👋 Hi, I’m Janos.
 - 👀 I’m interested in Wordpress and volunteering.
-- 🌱 I’m currently learning PHP and JS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: janos@thewebplans.com
 
 <!---
